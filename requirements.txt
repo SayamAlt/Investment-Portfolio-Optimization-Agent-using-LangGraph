@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+altair
+pandas-ta-classic
+plotly
+langchain-openai
+python-dotenv
+langchain-community
+langgraph
+pydantic
+langchain-core
+yfinance
+finnhub
+cvxpy
+scipy
