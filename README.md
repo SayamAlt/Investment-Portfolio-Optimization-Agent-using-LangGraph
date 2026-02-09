@@ -64,7 +64,7 @@ An advanced financial agent built using **LangGraph**, **LangChain**, and **Stre
 
 The system uses a **State Graph** approach where each node modifies a shared `AgentState` object. This ensures traceability and allows for complex conditional logic (e.g., rebalancing versus hedging based on market sentiment).
 
-![Investment Portfolio Optimization Workflow]("portfolio_optimization_workflow.png")
+![Investment Portfolio Optimization Workflow](portfolio_optimization_workflow.png)
 
 ## 🛡️ Risk Management
 - **Leverage Caps**: Strictly enforced limits to prevent over-exposure (Aggressive: 2.5x max).
