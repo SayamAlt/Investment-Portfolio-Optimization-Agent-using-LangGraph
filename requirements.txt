@@ -11,6 +11,6 @@ langgraph
 pydantic
 langchain-core
 yfinance
-finnhub
+finnhub-python
 cvxpy
 scipy
